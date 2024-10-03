@@ -2,7 +2,7 @@ The Commands are taken from the official Microsoft website and do not cause any 
 
 Script Made By ABD Hardware
 Youtube: @Abd.Hardware
-instagram: @Abd.Hardware
+| instagram: @Abd.Hardware
 
 
 
